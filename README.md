@@ -67,3 +67,6 @@ Then we can plot the `(r,z)` components of the coords.
 ```
 ![output](docs/gen.png)
 
+We see the generated points on all the different geometries. You can also easily generate on a different surface and save to a lh5 file.
+More details will be in the documentation.
+
