@@ -70,7 +70,7 @@ test = [
 ]
 
 [project.scripts]
-
+pyvertexgen = "pyvertexgen.cli:cli"
 
 [tool.setuptools]
 include-package-data = true

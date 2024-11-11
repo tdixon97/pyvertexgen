@@ -6,6 +6,5 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/tdixon97/pyvertexgen?logo=github)
 ![License](https://img.shields.io/github/license/tdixon97/pyvertexgen)
 
-Tool for the generation of vertices (both positions and momenta) for [remage](https://github.com/legend-exp/remage).
-
-
+Tool for the generation of vertices (both positions and momenta) for
+[remage](https://github.com/legend-exp/remage).
