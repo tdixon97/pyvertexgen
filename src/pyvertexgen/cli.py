@@ -19,8 +19,12 @@ def cli() -> None:
         help="""Increase the program verbosity""",
     )
 
-    
-
+    parser.add_argument(
+        "--mode",
+        "-m",
+        default="vertex",
+        help="""Mode either generated `vertex` or `momenta`""",
+    )
 
     # log handler
 

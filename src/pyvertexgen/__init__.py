@@ -1,4 +1,3 @@
-
 from __future__ import annotations
 
 from pyvertexgen._version import version as __version__
