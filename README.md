@@ -65,5 +65,5 @@ Then we can plot the `(r,z)` components of the coords.
 
     fig.tight_layout()
 ```
-![output]("docs/gen.png")
+![output](docs/gen.png)
 
